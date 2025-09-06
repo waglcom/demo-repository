@@ -1,6 +1,11 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Demo Open Source Project
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+이 프로젝트는 오픈 소스 기여 교육을 위한 데모용 예제입니다.
+
+## 시작하기
+
+이 저장소를 클론한 후, 아래 명령어로 프로젝트를 실행할 수 있습니다:
 
 
+npm install
+npm start
